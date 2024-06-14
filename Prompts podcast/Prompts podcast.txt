@@ -1,0 +1,17 @@
+Prompts utilizados:
+
+ChatGPT
+
+1º Me indique 5 títulos de podcast sobre inteligência artificial que seja voltado para o publico nerd jovem e que tenha referencias de personagens da marvel e ou da DC comics.
+2º Reduza o tamanho do titulo
+3º Use o tema abaixo, mas inclua os vingadores para fazer um roteiro epico
+"Liga da IA" 
+4º use referências do mundo tech para preencher o texto e dar significado mais realistico
+
+Midjourney
+
+Imagine a lot heros from Marvel and DC together
+
+Copilot
+
+Make spiderman Miles morales podcaster, in a studio whit headphones and a microfone
