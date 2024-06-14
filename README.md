@@ -1,13 +1,13 @@
 <p align="center">
 <img 
-    src=""
+    src="Imagens/_9b218813-6326-4007-b342-80841284d901.jpg"
     width="300"
 />
 </p>
 
 
 
-    preview do podcast
+   
 </p>
 
 <div align="center">
@@ -16,8 +16,6 @@
 
 # Projeto Podcast Gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
@@ -37,9 +35,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
+## 📚 Resultado!
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- [Link do podcast no youtube](https://www.youtube.com/watch?v=yg5DYDM8GZg&list=PLJCb33jSYPq_DaI0VTpb3Bfv0vIvQDxV)
+
 
